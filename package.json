@@ -31,7 +31,7 @@
     "@wppconnect-team/wppconnect": "^*",
     "assert": "^*",
     "async-get-file": "^*",
-    "axios": "^0.21.2",
+    "axios": "^1.6.4",
     "buffer-to-stream": "^1.0.0",
     "cors": "^*",
     "dotenv": "^*",

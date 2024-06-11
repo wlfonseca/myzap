@@ -38,7 +38,7 @@
     "ejs": "^*",
     "express": "^*",
     "ffmpeg": "^*",
-    "firebase": "^9.1.0",
+    "firebase": "^10.1.0",
     "fluent-ffmpeg": "^*",
     "form-data": "^3.0.1",
     "mime-types": "^2.1.31",
